@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I am currently a master student in Mechenical Engineering at MIT. I graduated from Tsinghua University with a Bachelor degree in Mechanical Engineering and Computer Science in 2020.
 
-It seems the pandemic also keeps me away from coding, and all my websites stopped updating. I'm still trying to figure out what to do next. Good luck to myself and to you guys.
+It seems the pandemic also keeps me away from coding, and all my websites stopped updating. I'm still trying to figure out what to do next, but I am now starting to build a simple arm. Good luck to myself and to you guys.
