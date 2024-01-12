@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### About me
-I am currently a master student in Mechenical Engineering at MIT. I graduated from Tsinghua University with a Bachelor degree in Mechanical Engineering and Computer Science in 2020.
+I am currently a PhD student in Mechenical Engineering at MIT. I graduated from Tsinghua University with a Bachelor degree in Mechanical Engineering and Computer Science in 2020.
 
 I'm now working on automatic ultrasound in Device Realization Lab at MIT.
 
@@ -24,4 +24,3 @@ I'm now working on automatic ultrasound in Device Realization Lab at MIT.
 - I also have a [personal blog](https://mp.weixin.qq.com/s/WTs27amc-N4gmgxsZ2bCaw) (in Chinese 饮石泉兮荫松柏) on WeChat, where I share some of my literature creation.
 - Welcome to my personal website, which also hosts my two current hobbies, [cooking (浮蜜轩)](http://www.qianl.in/2022/06/02/fumixuan/) and [hanfu (倚风堂)](http://www.qianl.in/2022/06/02/yifengtang/).
 
-Good luck to myself and to you guys.
